@@ -1,6 +1,5 @@
 # Resume_Project
-
-Resume project is a WIP to create a mock magento eCommerce website centered on users and interests. The back end is implemented using REST, Flast, and SQLAlchemy.
+User-interest mock backend server implemnted using flask restful, and SQLAlchemy ORM confiugred with sqlite.
 
 Backend based off this [https://www.youtube.com/watch?v=GMppyAPbLYk&t=87s&ab_channel=TechWithTim] tutorial.
 ## Installation
