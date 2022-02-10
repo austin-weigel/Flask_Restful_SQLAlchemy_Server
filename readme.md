@@ -11,12 +11,16 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-Open terminal at Resume_Project root directory.
+Open terminal at project root directory.
 
 ```python
 #Start server using command
 python3 main.py
+```
 
+Open new termal again at project root directory
+
+```python
 #Run test script using command
 python3 test.py
 ```
