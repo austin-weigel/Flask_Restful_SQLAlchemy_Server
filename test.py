@@ -1,4 +1,3 @@
-from re import A
 from flask_restful import abort
 import requests
 
