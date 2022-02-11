@@ -10,8 +10,8 @@ AUSTIN_BASE = USER_BASE + '1'
 
 #Test user data
 users = {1:{'username':'austin.weigel', 'email':'austin.a.weigel@gmail.com', 'password':'password123'},
-        2:{'username':'kyle.waid', 'email':'kwaid@decksdirect.com', 'password':'password123'},
-        3:{'username':'blair.budlong', 'email':'blairb@decksdirect.com', 'password':'password123'}}
+        2:{'username':'kyle', 'email':'k@test.com', 'password':'password123'},
+        3:{'username':'blair', 'email':'b@test.com', 'password':'password123'}}
 #Test interest data
 interests = {1:{'title': 'BMX', 'description':'Two wheels for both feet'},
             2:{'title': 'Roller Skating', 'description':'Two front and two rear wheels for each foot'},
